@@ -39,7 +39,7 @@ export default function Projects() {
             image: "/hospital.png",
             tags: ["C++", "Data Structures", "OOP"],
             githubLink:
-              "https://github.com/chale21/hospital-management-system",
+              "https://github.com/chale21/hospital-management-system.git",
             liveLink: "",
             featured: true,
             order: 1
@@ -69,7 +69,7 @@ export default function Projects() {
             image: "/service.png",
             tags: ["React", "Express", "MongoDB"],
             githubLink:
-              "https://github.com/chale21/local-service-system",
+              "https://github.com/chale21/LocalServicSystem.git",
             liveLink: "",
             featured: false,
             order: 3
