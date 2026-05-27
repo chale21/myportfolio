@@ -51,10 +51,10 @@ export default function Projects() {
               "Manages transport schedules, routes, and vehicles.",
             longDescription:
               "Scheduling system for staff transport optimization.",
-            image: "/transport.png",
+            image: "/Transport.png",
             tags: ["React", "Node.js", "MongoDB"],
             githubLink:
-              "https://github.com/chale21/staff-transport-system",
+              "https://github.com/chale21/TransportFrontend.git",
             liveLink: "",
             featured: true,
             order: 2
